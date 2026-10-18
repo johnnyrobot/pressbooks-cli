@@ -20,7 +20,7 @@ const (
 	// UserAgent is browser-shaped because these hosts answer a bare tool name
 	// with 403, and identifying, with a contact URL, because pretending to be
 	// someone's browser would be worse.
-	UserAgent = "Mozilla/5.0 (compatible; pressbooks-pp-cli/0.1; +https://github.com/johnnylibretexts-ai/pressbooks-cli)"
+	UserAgent = "Mozilla/5.0 (compatible; pressbooks-pp-cli/0.1; +https://github.com/johnnyrobot/pressbooks-cli)"
 
 	// MaxAttempts counts the first try, not just the retries.
 	MaxAttempts = 3

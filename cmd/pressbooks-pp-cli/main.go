@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/johnnylibretexts-ai/pressbooks-cli/internal/cli"
+	"github.com/johnnyrobot/pressbooks-cli/internal/cli"
 )
 
 func main() {

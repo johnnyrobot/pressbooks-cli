@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/johnnylibretexts-ai/pressbooks-cli/internal/pressbooks"
+	"github.com/johnnyrobot/pressbooks-cli/internal/pressbooks"
 	"github.com/spf13/cobra"
 )
 

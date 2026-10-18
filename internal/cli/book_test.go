@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/johnnylibretexts-ai/pressbooks-cli/internal/pressbooks"
+	"github.com/johnnyrobot/pressbooks-cli/internal/pressbooks"
 )
 
 // sampleTOCForCLI mirrors internal/pressbooks/book_test.go's sampleTOC: a

@@ -9,7 +9,7 @@ cli_description: "Search Pressbooks open textbook networks and extract a book's 
 
 required_headers:
   - name: User-Agent
-    value: "Mozilla/5.0 (compatible; pressbooks-pp-cli/0.1; +https://github.com/johnnylibretexts-ai/pressbooks-cli)"
+    value: "Mozilla/5.0 (compatible; pressbooks-pp-cli/0.1; +https://github.com/johnnyrobot/pressbooks-cli)"
   - name: Accept
     value: "application/json"
 
